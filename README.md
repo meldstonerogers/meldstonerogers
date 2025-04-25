@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a detail-oriented and mission-driven data professional with a strong foundation in Python programming, PostgreSQL, and ETL processes. I am a proven leader with experience managing complex data systems, supporting teams, and advancing organizational goals through data-driven insights and automation. I have a strong clinical background, with nearly a decade of experience as a licensed social worker. This foundation has sharpened my ability to analyze patterns, evaluate outcomes, and translate data into meaningful action. My clinical training informs a human-centered, equity-focused approach to data, allowing me to bridge operations and analytics with empathy, precision, and real-world impact. I am passionate about supporting research and innovation and am actively pursuing opportunities to contribute technical expertise in a collaborative, impact-focused environment.
+
+Let's chat! 💬
+
 <!--
 **meldstonerogers/meldstonerogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
